@@ -1,0 +1,187 @@
+		* {
+			font-family: 'Open Sans', sans-serif;
+		}
+
+		/* Start of Navigation Bar CSS */
+		.navbar {
+			padding-top: 5px;
+			padding-bottom: 5px;
+			margin-bottom: 0px;
+			background-color: white;
+		}
+		.brand-image {
+			margin-top: 5px;
+   			margin-left: 5px;
+		}
+		#appointment {
+			color: orange;
+			border: 1px solid aquamarine;
+			border-radius: 30px;
+			font-size: 12px;
+			padding: 5px;
+			padding-left: 10px;
+			padding-right: 10px;
+			margin-top: 10px;
+		}
+		#appointment:hover {
+			color: white;
+			background-color: aquamarine;
+		}
+		.nav {
+			margin-right: 5px;
+		}
+		/* End of Navigation Bar CSS */
+
+
+		/* Start of Jumbotron CSS */
+		.jumbotron {
+			background-image: url('../images/bgimage.png');
+			height: 100vh;
+			margin-bottom: 0px;
+			/*color: white;*/
+		}
+		.main-heading {
+			margin-top: 170px;
+			margin-bottom: 60px;
+		}
+		/* End of Jumbotron CSS */
+
+		/*Start of Specialty Section CSS*/
+		.section-1 {
+			background-color: rgb(244,250,250);
+		}
+		.section-heading-1 {
+			margin-top: 60px;
+			margin-bottom: 80px;
+		}
+		.sub-section-headings {
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+		.section-heading-1, .sub-section-headings {
+			color: rgb(28,171,160);
+		}
+		p {
+			color: grey;
+			width: 90%;
+			padding-left: 20px;
+		}
+
+		.section-heading-2 {
+			margin-top: 70px;
+			margin-bottom: 90px;
+			color: rgb(28,171,160);
+		}
+		/*End of Specialty Section CSS*/
+
+
+		/*Start of Process Section CSS*/
+		.section-heading-3 {
+			margin-top: 70px;
+			margin-bottom: 90px;
+			color: rgb(28,171,160);
+		}
+		.process-image {
+			width: 100px;
+		}
+		.the-bar {
+			margin-top: 20px;
+			margin-bottom: 20px;
+			width: 70%;
+		}
+		.sub-section-headings-1 {
+			margin-top: 10px;
+			margin-bottom: 30px;
+			color: rgb(28,171,160);
+		}
+		/*End of Process Section CSS*/
+
+		
+		/*Start of Our Reviews Section CSS*/
+		.section-heading-4 {
+			margin-top: 70px;
+			margin-bottom: 60px;
+			color: rgb(28,171,160);
+		}
+		.pictures {
+			width: 80px;
+		}
+		.pictures1 {
+			width: 150px;
+		}
+		.section-heading-5 {
+			margin-top: 100px;
+			margin-bottom: 60px;
+			color: rgb(28,171,160);
+		}
+		/*End of Our Reviews Section CSS*/
+
+
+		/*Start of Footer CSS*/
+		.footer {
+			background-color: rgb(64,79,84);
+			margin-top: 100px;
+			padding-top: 40px;
+			padding-bottom: 30px;
+			color: white;
+		}
+		.footerlogo {
+			width: 200px;
+		}
+		.footer h4 {
+			font-weight: bold;
+			margin-bottom: 20px;
+		}
+		.footer li {
+			margin-bottom: 5px;
+		}
+		.footer-section-2-ul, .footer-section-3-ul {
+			padding-left: 0px;
+			list-style-type: none;
+		}
+		.footer-section-2-ul a, .footer-section-3-ul a {
+			color: white;
+		}
+		.footer-section-4-form-input {
+			background-color: rgb(64,79,84);
+			border: 1px solid white;
+			border-radius: 5px;
+			padding-left: 10px;
+		}
+		.btn {
+			margin-top: 15px;
+			padding: 3px 25px;
+			background-color: white;
+			color: black;
+			font-size: 12px;
+		}
+		.footer-section-5 img {
+			width: 30px;
+		}
+		.footer-section-5 p {
+			padding: 0px;
+			padding-top: 5px;
+		}
+		/*.footer-section-4 {
+			padding-left: 0px;
+			margin-left: -20px;
+		}*/
+		/*.footer-section-5 {
+			margin-left: 20px;
+		}*/
+		.footer-section-5 p {
+			color: white;
+		}
+		.footer-section-5 .row {
+			margin-bottom: 3px;
+		}
+		/*End of Footer CSS*/
+
+
+		/*Start of Copyright CSS*/
+		.copyright {
+			background-color: rgb(40,57,62);
+			padding: 20px 0px;
+			color: grey;
+		}
+		/*End of Copyright CSS*/
